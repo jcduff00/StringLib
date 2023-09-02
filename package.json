@@ -1,5 +1,5 @@
 {
-  "name": "stringlib",
+  "name": "goopystringylibby",
   "version": "1.0.0",
   "description": "A string lib exercise for ACS3310.",
   "main": "index.js",
@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcduff00/StringLib.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jcduff00/StringLib/issues"
+  },
+  "homepage": "https://github.com/jcduff00/StringLib#readme"
 }
